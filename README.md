@@ -7,7 +7,6 @@ This tutorial on scientific models of human mobility was presented on Winter Wor
 
 
 # tutorial structure
-Tutorial will have two parts:
-More theoretical: models of mobility, statistical modeling
-More applied: analysis of data, visualisation with deck.gl, python etc.
+Tutorial has two parts: theoretical about models of mobility, statistical modeling
+and applied onanalysis of data, visualisation with deck.gl, python etc.
 At the end of the tutorial you will learn how to produce and analyze open mobility data.
