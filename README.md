@@ -10,3 +10,11 @@ This tutorial on scientific models of human mobility was presented on Winter Wor
 Tutorial has two parts: theoretical about models of mobility, statistical modeling
 and applied onanalysis of data, visualisation with deck.gl, python etc.
 At the end of the tutorial you will learn how to produce and analyze open mobility data.
+
+
+# some useful links 
+www.openhumans.org 
+Kepler.gl deck.gl
+Hackathons on open data https://liyubov.github.io/healthycityhack.github.io/  
+https://github.com/Liyubov/open_data 
+https://github.com/an-medvedev/open-mobility-tutorial 
