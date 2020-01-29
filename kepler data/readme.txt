@@ -1,3 +1,9 @@
+Data: 
+
+Belgian train delays data scraped from open sources during one day
+
+
+
 1) keplergl-config-map.json 
 
 extracted map config for kepler.gl - data + graphic settings
